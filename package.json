@@ -1,0 +1,26 @@
+{
+  "name": "ex3",
+  "version": "1.0.0",
+  "description": "In this exercise we are going to make our validation messages a bit more user friendly and self-explanatory. Instead of just telling the user that an input is invalid we want to provide detailed information what exactly is wrong and how to correct it.",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-validator": "^6.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FBW-17/ds-validation-3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FBW-17/ds-validation-3/issues"
+  },
+  "homepage": "https://github.com/FBW-17/ds-validation-3#readme"
+}
